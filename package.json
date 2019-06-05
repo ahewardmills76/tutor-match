@@ -1,0 +1,23 @@
+{
+  "name": "tutor-match",
+  "version": "1.0.0",
+  "description": "A MERN application (MySQL, Express, React, Node) for setting up tutoring sessions between students and tutors",
+  "main": "tutor_match_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahewardmills76/tutor-match.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahewardmills76/tutor-match/issues"
+  },
+  "homepage": "https://github.com/ahewardmills76/tutor-match#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
